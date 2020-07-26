@@ -27,8 +27,8 @@
 * More about Neomorphism: [CSS-tricks](https://css-tricks.com/neumorphism-and-css/)
 
 ## Website Demo:
-![1](FireShot Capture 015 - Analog Clock - rajatkhatri7.github.io.png)
-![2](FireShot Capture 018 - Analog Clock - rajatkhatri7.github.io.png)
+![1](1.png)
+![2](2.png)
 
 
 # *Author*
