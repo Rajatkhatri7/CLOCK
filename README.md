@@ -1,8 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/tusharnankani/AnalogClock)
 
 # Analog Clock
 
-### This website is deployed [here.](https://tusharnankani.github.io/AnalogClock/)
+### This website is deployed [here.](https://rajatkhatri7.github.io/CLOCK/)
 
 
 ### *Features*:
@@ -10,12 +9,6 @@
 * Displays current Time
 * Neomorphic Interface 
 * Added Themes: Dark Mode <-> Light Mode
-
-
-## *Features to be added*
-
-- Adding Timezones 
-- Adding a stopwatch / timer (countdowns)
 
 
 ## *Technologies used*
@@ -34,11 +27,10 @@
 * More about Neomorphism: [CSS-tricks](https://css-tricks.com/neumorphism-and-css/)
 
 ## Website Demo:
-![1](https://user-images.githubusercontent.com/61280281/85862463-6e0a9a00-b7df-11ea-806e-2ebbeda2ab0c.png)
-![2](https://user-images.githubusercontent.com/61280281/85862468-6fd45d80-b7df-11ea-8142-435302297a22.png)
-![3](https://user-images.githubusercontent.com/61280281/85862470-706cf400-b7df-11ea-8e31-90f2f8ae4a2e.png)
+![1](1.png)
+![2](2.png)
 
 
 # *Author*
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-   - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+* Rajat Khatri (rajatkhatri7, rajatkhatri0002@gmail.com)
+   
