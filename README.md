@@ -1,8 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/tusharnankani/AnalogClock)
 
 # Analog Clock
 
-### This website is deployed [here.](https://tusharnankani.github.io/AnalogClock/)
+### This website is deployed [here.](https://rajatkhatri7.github.io/CLOCK/)
 
 
 ### *Features*:
@@ -10,12 +9,6 @@
 * Displays current Time
 * Neomorphic Interface 
 * Added Themes: Dark Mode <-> Light Mode
-
-
-## *Features to be added*
-
-- Adding Timezones 
-- Adding a stopwatch / timer (countdowns)
 
 
 ## *Technologies used*
@@ -40,5 +33,5 @@
 
 
 # *Author*
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-   - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+* Rajat Khatri (rajatkhatri7, rajatkhatri0002@gmail.com)
+   
